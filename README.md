@@ -4,7 +4,7 @@
 
 ### About Me 🙋‍♂️
 
-- 🎓 **Data Scientist in Training** pursuing a Master's in Engineering Sciences (Data Science) at the University at Buffalo.
+- 🎓 **Data Scientist in Training** with a Master's in Engineering Sciences (Data Science) at the University at Buffalo, State University of New York.
 - 🤖 Passionate about creating innovative solutions with **Machine Learning, Deep Learning**, and **AI-driven applications**.
 - 🌱 Exploring how **technology can empower human connections** and improve lives.
 - 🤝 Always open to collaborations on projects that **make an impact**.
