@@ -1,119 +1,114 @@
-<h1 align="center">Hi there, I'm Jaswanth 👋</h1>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Jaswanth%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <p align="center">
-🎓 Data Scientist | 🤖 AI/ML Engineer | 🛠️ Data Engineer  
-📍 Based in CA | 🌱 Driven by curiosity, grounded in impact
+🎓 Data Scientist | 📊 Business Analyst | 🤖 AI/ML Engineer | 🛠️ Data Engineer  
+📍 Based in California | ⚡ Turning ideas into intelligent systems
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaswanth-tiruvee&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanth-tiruvee" />
+  <img src="https://komarev.com/ghpvc/?username=jaswanth-tiruvee&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
 ---
 
-### 💬 “Data is a tool for answering questions. AI is how we ask better ones.”
+## 🚀 Who Am I?
+
+I'm Jaswanth Tiruveedhula – a Data Scientist and Business Analyst with an engineer’s logic and an artist’s storytelling.  
+With a Master’s in Data Science from **University at Buffalo** and hands-on experience in **AI, NLP, BI, Cloud, and ETL**, I help teams transform data into insight, and insight into action.
 
 ---
 
-## 🔎 About Me
+## 💼 What I Do
 
-I'm a Master's graduate in Data Science from the **University at Buffalo**, with real-world experience in **AI**, **machine learning**, **ETL engineering**, and **cloud-based analytics**. I specialize in applying data science to impactful domains like **healthcare**, **NLP**, **automation**, and **interactive AI systems**.
+🧠 **Business Insight to Action**  
+- Gather, analyze, and translate business needs into scalable, data-driven solutions
 
-I thrive at the intersection of research and deployment — from developing emotion recognition models and chatbots to optimizing ETL pipelines and building workflow automations.
+📊 **Data Analytics & BI**  
+- Build real-time dashboards and insights with Power BI, MicroStrategy, Tableau
 
----
+🤖 **AI/ML Engineering**  
+- Develop NLP/LLM/chatbot systems, optimize DL models, and deploy in the real world
 
-## 🧰 Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-**Frameworks & Tools**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-76B900?style=flat&logo=nltk&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
-
-**Cloud & DevOps**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9E4?style=flat&logo=snowflake&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Visualization & Analytics**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+⚙️ **ETL & Automation**  
+- Architect cloud pipelines, automate workflows with GitHub Actions, FastAPI, Terraform
 
 ---
 
-## 🔍 Featured Projects
+## 🧰 Tech Toolbox
 
-| 💡 Project | 🚀 Description | 🔧 Tech Stack |
-|-----------|----------------|---------------|
-| [Instacart DB Normalization](https://github.com/jaswanth-tiruvee/Instacart--DB-Normalization) | Schema design, ETL migration, indexing, query optimization. | SQL, PostgreSQL, ETL |
-| [Hand Gesture Interpreter](https://github.com/jaswanth-tiruvee/Hand_Gesture_Interpreter-Artificial-Intelligence) | Real-time hand tracking with CNNs and OpenCV. | Python, OpenCV, TensorFlow |
-| [Sentiment-Aware Chatbot](https://github.com/jaswanth-tiruvee/Sentiment_Analysis-AI-Chat-Bot) | Emotion-specific responses with NLP and transformers. | Python, NLTK, SpaCy |
-| [Steganography Tool](https://github.com/jaswanth-tiruvee) | Hide and extract data in images using LSB encoding. | Java, GUI, Encryption |
+**Languages**: Python, SQL, R, Java, C  
+**AI/ML**: PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain  
+**NLP**: NLTK, SpaCy, Transformers  
+**Cloud/Infra**: Azure, AWS, Snowflake, Docker, Terraform  
+**BI Tools**: Power BI, Tableau, Streamlit, MicroStrategy  
+**Data Platforms**: Redshift, PostgreSQL, BigQuery, Pinecone  
 
 ---
 
-## 🧪 Research
+## 🔥 Featured Projects
 
-📘 [**Speech Emotion Recognition with MFCC and Mel-Spectrogram**](https://ieeexplore.ieee.org/abstract/document/10127355) — *IEEE ICNWC, 2022*
+| 💡 Project | 🔍 Description | 🧠 Tech |
+|-----------|----------------|--------|
+| [📦 Instacart DB Normalization](https://github.com/jaswanth-tiruvee/Instacart--DB-Normalization) | Rebuilt schema with 3NF & partitioning, boosting query speed by 40% | SQL, PostgreSQL, ETL |
+| [🖐️ Hand Gesture Interpreter](https://github.com/jaswanth-tiruvee/Hand_Gesture_Interpreter-Artificial-Intelligence) | Real-time gesture-to-text translator using OpenCV & CNNs | Python, TensorFlow, Streamlit |
+| [💬 Sentiment-Aware Chatbot](https://github.com/jaswanth-tiruvee/Sentiment_Analysis-AI-Chat-Bot) | Emotion-driven NLP chatbot with TF-IDF, Word2Vec, SpaCy | Python, NLP, Transformers |
+| [🔐 Steganography Tool](https://github.com/jaswanth-tiruvee) | Built GUI to hide data in images using LSB encoding | Java, Swing, Crypto |
+
+---
+
+## 🧪 Research & Recognition
+
+- 🧠 [**Emotion Recognition in Speech**](https://ieeexplore.ieee.org/abstract/document/10127355) – IEEE ICNWC ’22  
+- 🥇 95% accuracy in hand gesture AI system – showcased at Team Epic  
+- 🚀 Built & deployed UTKFace-based age/gender prediction demo for real-time apps
 
 ---
 
 ## 📜 Certifications
 
-- IBM Specialization in Artificial Intelligence and Machine Learning  
-- Applications of Machine Learning in Real-World Problems – IBM  
-- Neural Networks Architecture in Computer Vision  
+- 📘 IBM Specialization in AI & ML  
+- 📊 Applied ML in Real World – IBM  
+- 🧠 Deep Learning in CV – Advanced NN Architectures  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaswanth-tiruvee&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-tiruvee&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaswanth-tiruvee&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-tiruvee&theme=tokyonight" width="45%" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Exploring
 
-- Advanced NLP with LLMs  
-- Power Automate + Azure API Integrations  
-- DataOps for scalable ML delivery
-
----
-
-## 🤝 Looking to Collaborate On
-
-- AI for media or healthcare  
-- Generative AI tools & chatbots  
-- Automation and NLP pipelines
+- 🔗 Power BI + Python dashboards for business storytelling  
+- 💬 LangChain + LLM workflows  
+- ⚙️ DataOps & MLflow pipelines for scalable ML delivery  
 
 ---
 
-## 😄 Fun Fact
+## 🤝 Let’s Collaborate
 
-I love building things that help humans interact better with machines — and I always name my variables like they’re going to production 🚀
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/jaswanth-tiruveedhula)
-- 📬 jaswanthtiruveedhula@gmail.com
+- BI dashboards with storytelling  
+- Chatbots & NLP workflows  
+- Full-stack AI for real-time data use cases
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my work or reach out if you’d like to collaborate.*
+## 🎯 Fun Fact
 
+I automate boring stuff, name variables like they’re going to the moon 🚀, and treat every dashboard like it’s a TED Talk slide 😄
 
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaswanth-tiruveedhula)](https://www.linkedin.com/in/jaswanth-tiruveedhula)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jaswanthtiruveedhula@gmail.com)
+
+---
+
+⭐ *Thanks for visiting! Let’s build something powerful — with data, logic, and curiosity.*
