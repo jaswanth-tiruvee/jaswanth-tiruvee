@@ -74,20 +74,6 @@ I'm a data-driven problem solver with a Master’s in Data Science from **Univer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanth-tiruvee&theme=radical" width="45%" />
 </p>
 
----
-
-### 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jaswanth-tiruvee&theme=react-dark&bg_color=0D1117&hide_border=true" />
-</p>
-
----
-
-### 🌆 GitHub Skyline
-
-⛰️ View my 3D GitHub activity skyline here:  
-🌐 [https://skyline.github.com/jaswanth-tiruvee/2024](https://skyline.github.com/jaswanth-tiruvee/2024)
 
 ---
 
