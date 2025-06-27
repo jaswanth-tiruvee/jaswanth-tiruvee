@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jaswanth 👋</h1>
 <p align="center">
 🎓 Data Scientist | 🤖 AI/ML Engineer | 🛠️ Data Engineer  
-📍 Based in NY | 🌱 Driven by curiosity, grounded in impact
+📍 Based in CA | 🌱 Driven by curiosity, grounded in impact
 </p>
 
 <p align="center">
