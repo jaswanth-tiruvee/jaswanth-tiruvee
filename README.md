@@ -4,7 +4,6 @@
 <p align="center">
 🎓 Data Scientist | 📊 Business Analyst | 🤖 AI/ML Engineer | 🛠️ Data Engineer  
 📍 California | 💼 Open to Full-Time Opportunities  
-📬 jaswanthtiruveedhula@gmail.com • 🌐 <a href="https://www.linkedin.com/in/jaswanth-tiruveedhula">LinkedIn</a>
 </p>
 
 ---
