@@ -2,8 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:00CED1&height=200&section=header&text=Hi,%20I'm%20Jaswanth%20Tiruveedhula!🚀&fontSize=35&fontColor=fff&fontAlignY=40" />
 
 <p align="center">
-🎓 Data Scientist | 📊 Business Analyst | 🤖 AI/ML Engineer | 🛠️ Data Engineer  
-📍 California | 💼 Open to Full-Time Opportunities  
+🎓 Data Scientist | 📊 Data & Business Analyst | 🤖 AI/ML Engineer | 🛠️ Data Engineer | 💼 Open to Full-Time Opportunities  
 </p>
 
 ---
